@@ -14,6 +14,7 @@ class Transaction extends Model
     protected $fillable = [
         'user_id',
         'total_price'
+        //asda
     ];
 
     public function users()
